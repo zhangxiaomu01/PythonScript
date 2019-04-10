@@ -1,6 +1,7 @@
 Ans = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N']
 Seq = ['A', 'E', 'B', 'C', 'D', 'F', 'G', 'I', 'J', 'K', 'H', 'L', 'M', 'N']
 
+
 lenS = len(Ans)
 DP = [[0.0 for i in range(lenS)] for i in range(lenS)]
 
